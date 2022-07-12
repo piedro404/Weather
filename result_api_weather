@@ -1,0 +1,15 @@
+{
+"coord":{"lon":-9.1333,"lat":38.7167},
+"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02n"}],
+"base":"stations",
+"main":{"temp":284.68,"feels_like":284.11,"temp_min":283.01,"temp_max":285.97,"pressure":1013,"humidity":85},
+"visibility":10000,
+"wind":{"speed":2.06,"deg":130},
+"clouds":{"all":20},
+"dt":1647910588,
+"sys":{"type":1,"id":6901,"country":"PT","sunrise":1647931030,"sunset":1647974979},
+"timezone":0,
+"id":2267057,
+"name":"Lisbon",
+"cod":200
+}
